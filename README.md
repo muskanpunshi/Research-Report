@@ -1,1 +1,3 @@
 # Research-Report
+# A Review over Development & Prospects of Data Analytics
+Undertaken as part of the Research Report course, this project explored the rapid evolution and future potential of data analytics in the era of big data. The paper analyzed core challenges including massive data volumes, unstructured and dynamic datasets, and the proliferation of data sources. It also highlighted how modern organizations are leveraging advanced analytics and machine learning techniques to gain deeper insights, improve decision-making, and maintain a competitive edge. The report further examined the integration of machine learning into business analytics strategies and addressed key implementation hurdles.
